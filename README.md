@@ -15,7 +15,7 @@ Real-time hand gesture recognition ML project
   - Majority vote smoothing for stable predictions
 
 # Folder Structure
-'''
+```
 New_Data/
 ├── data/ # Raw and augmented gesture data (.npy files)
 │ ├── augmented/ # Augmented gesture data
@@ -35,7 +35,7 @@ New_Data/
 │ └── live_recognition_test.py # Live gesture recognition
 ├── .gitignore
 └── README.md
-'''
+```
 
 # Setup
 1. Clone the repository:
